@@ -9,12 +9,40 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-react": "^8.0.0",
+    "@mantine/carousel": "^7.11.2",
+    "@mantine/charts": "^7.11.2",
+    "@mantine/code-highlight": "^7.11.2",
+    "@mantine/core": "^7.11.2",
+    "@mantine/dates": "^7.11.2",
+    "@mantine/dropzone": "^7.11.2",
+    "@mantine/form": "^7.11.2",
+    "@mantine/hooks": "^7.11.2",
+    "@mantine/modals": "^7.11.2",
+    "@mantine/notifications": "^7.11.2",
+    "@mantine/nprogress": "^7.11.2",
+    "@mantine/rte": "^5.10.5",
+    "@mantine/spotlight": "^7.11.2",
+    "@tinymce/tinymce-react": "^5.1.1",
+    "@tiptap/pm": "^2.5.0",
+    "@tiptap/react": "^2.5.0",
+    "@tiptap/starter-kit": "^2.5.0",
+    "axios": "^1.7.2",
+    "ckeditor5": "^42.0.1",
+    "dayjs": "^1.11.12",
+    "embla-carousel-react": "^8.1.6",
+    "jodit": "^4.2.27",
+    "jodit-react": "^4.1.2",
+    "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "recharts": "^2.12.7",
+    "tinymce": "^7.2.1"
   },
   "devDependencies": {
-    "postcss": "^8",
+    "postcss": "^8.4.39",
+    "postcss-preset-mantine": "^1.16.0",
+    "postcss-simple-vars": "^7.0.1",
     "tailwindcss": "^3.4.1"
   }
 }
